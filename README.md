@@ -1,2 +1,2 @@
 # go-relevance-benchmark
-Benchmark of relevance related to another players
+Benchmark of relevance related to other players
